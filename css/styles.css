@@ -1,0 +1,27 @@
+body{
+font-family: "Roboto", sans-serif;
+color: #434455;background:#ffffff;}
+.link{text-decoration: none;}
+.list{list-style-type: none;}
+.header-logo{
+font-family: "Raleway", sans-serif;
+color:#4d5ae5;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-transform: uppercase;}
+
+.header-logo-accent{
+font-family: "Raleway", sans-serif;
+color: #2e2f42;
+font-weight: 700;
+}
+
+.header-menu-link{
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.50;
+letter-spacing: 0.02em}
