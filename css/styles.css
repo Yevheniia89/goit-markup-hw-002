@@ -34,7 +34,7 @@ letter-spacing: 0.02em;}
 .header-menu-link:focus
 {color:#404bbf;}
 
-.address-item{font-style: norma;}
+.address-item{font-style: normal;}
 
 .address-mailtel-link:hover,
 .address-mailtel-link:focus
@@ -58,19 +58,19 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;}
 
-.hero-title-btn:hover,
-.hero-title-btn:focus{color:#404bbf;}
-
 .hero-title-btn{
 font-family: "Roboto", sans-serif;
-color:#FFF; 
 background-color:#4D5AE5;
+color:#FFF;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
  letter-spacing: 0.04em;
  cursor: pointer;
 }
+
+.hero-title-btn:hover,
+.hero-title-btn:focus{ background-color:#404bbf;}
 
 .feature-section{color:#434455;
 font-weight: 400;
