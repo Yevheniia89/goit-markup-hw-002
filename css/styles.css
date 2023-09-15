@@ -34,7 +34,11 @@ letter-spacing: 0.02em;}
 .header-menu-link:focus
 {color:#404bbf;}
 
+.address-item{font-style: norma;}
 
+.address-mailtel-link:hover,
+.address-mailtel-link:focus
+{color:#404bbf ;}
 .address-mailtel-link {
 font-size: 16px;
 color:#434455;
@@ -53,6 +57,9 @@ font-style: normal;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;}
+
+.hero-title-btn:hover,
+.hero-title-btn:focus{color:#404bbf;}
 
 .hero-title-btn{
 font-family: "Roboto", sans-serif;
@@ -77,10 +84,12 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;}
 
-.team-section{color: #F4F4FD;
-    background-color: #FFFFFF;}
 
-.team-title{color: #2E2F42;
+.team-title{background-color: #F4F4FD}
+.team-link{background-color: #FFFFFF}
+
+.team-title
+{color: #2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
