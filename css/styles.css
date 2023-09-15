@@ -108,7 +108,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;}
 
 .rezume-section:{background-color:#F4F4FD;}
-.rezume-title{color:#2E2F42;
+.rezume-title{color:#2E2F42;background-color: #F4F4FD;
 text-align: center;
 /* Header 2 */
 font-size: 36px;
